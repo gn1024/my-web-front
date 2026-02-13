@@ -1,0 +1,24 @@
+{
+  "name": "my-web-front",
+  "version": "1.0.0",
+  "description": "Lightweight JavaScript utility library for frontend DOM manipulation, events, and CSS helpers",
+  "main": "src/my-web-front.js",
+  "module": "src/my-web-front.esm.js",
+  "keywords": [
+    "dom",
+    "utility",
+    "frontend",
+    "javascript",
+    "css",
+    "events",
+    "lightweight",
+    "helpers"
+  ],
+  "author": "garegin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garegin/my-web-front"
+  },
+  "homepage": "https://my-web-front.js.org"
+}
